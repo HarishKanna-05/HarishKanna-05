@@ -28,7 +28,7 @@
 - 🌱 **Currently learning**: 📚 Cloud computing and Generative AI
 - 💬 **Ask me about**: 💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs
 - ⚡ **Fun fact**: 🎢 Dark mode boosts my coding powers 🧙‍♂️
-- 📁 **My portfolio: "https://harishkanna.vercel.app/"
+- 📁 **My portfolio**: https://harishkanna.vercel.app/
 
 ## Skills
 <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
